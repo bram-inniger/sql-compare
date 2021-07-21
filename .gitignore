@@ -1,0 +1,19 @@
+# Gradle
+/.gradle
+/build
+
+# IDEA
+/.idea
+/out
+*.iml
+*.ipr
+*.iws
+
+# Vim
+*.swp
+
+# SQLite
+*.sqlite
+
+# Thumbs
+.DS_Store
