@@ -20,4 +20,10 @@ A small integration test suite covers functionality, find it [here](/src/test/ja
 
 The library specific code you can find [here](/src/main/java/be/inniger/scratch/sql/dao).
 
-Finally all the configuration happens inside [the App class](/src/main/java/be/inniger/scratch/sql/App.java).
+Finally, all the configuration happens inside [the App class](/src/main/java/be/inniger/scratch/sql/App.java).
+
+## License
+
+GNU GENERAL PUBLIC LICENSE version 3. See [LICENSE](LICENSE).
+
+_Copyright (C) 2021 Bram Inniger_
